@@ -33,12 +33,6 @@ Our team built a structured data pipeline using a medallion architecture:
 
 ---
 
-## Team Members
-- Taylor Baldwin  
-- Claudia Dare  
-- Michael Borasy  
-- Usman Siddiqui  
-
 ---
 
 ## Project Outcome
